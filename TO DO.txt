@@ -1,0 +1,11 @@
+- Design simplu
+
+
+Functionalitati:
+- Searchbar: inserare link
+- buton get video
+- selectare format si download
+- afisare thumbnail
+
+
+Dependency: ytdl-core 
